@@ -3,6 +3,7 @@
 ## Project setup
 ```
 npm install
+npm install nuxt
 ```
 ### Compiles for development
 ```
@@ -12,11 +13,6 @@ npm run dev
 ### Compiles and minifies for production
 ```
 npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
 ```
 
 ### Customize configuration
