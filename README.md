@@ -3,7 +3,6 @@
 ## Project setup
 ```
 npm install
-npm install nuxt
 ```
 ### Compiles for development
 ```
